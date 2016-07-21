@@ -1,0 +1,16 @@
+/*.itemCheck {
+  display: inline-block;
+  color: blue;
+}
+.itemDisp {
+  color: red;
+  float: left;
+  display: inline-block;
+}*/
+label {
+  display: inline-block;
+}
+
+.done {
+  text-decoration: line-through;
+}
